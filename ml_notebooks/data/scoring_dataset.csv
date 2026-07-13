@@ -1,0 +1,501 @@
+text,category,overall_score,task_clarity,context_score,specificity,role_definition,output_format,examples,constraints
+"Can you build a model to classify text as spam or not spam using a dataset of 100,000 messages?",Machine Learning,32,12,5,10,0,0,0,5
+Create a Python script that takes a list of strings and returns the strings that contain the word 'python'.,General,32,12,0,10,0,10,0,0
+"Describe a city that exists in a state of perpetual darkness. Write in the style of a horror novel, focusing on the theme of fear and survival.",Writing,54,12,10,12,5,10,0,5
+"Develop a technical documentation for a new software application that enables users to manage their finances and track their expenses. The document should be 5-7 pages long, written in a technical tone, and include details on implementation, usage, and troubleshooting. Assume an audience with a background in computer science.",Writing,62,12,10,13,5,10,0,12
+Write a shell script to backup MySQL database to S3. Use mysql2s3 tool and ensure data is encrypted. The script should be run as cron job daily. quality: excellent,DevOps,39,12,10,12,0,0,0,5
+Write a C++ function to calculate the factorial of a given integer using recursion.,Programming,30,15,0,15,0,0,0,0
+Create a predictive model to forecast the stock prices of a company based on historical data and technical indicators.,Machine Learning,49,12,10,12,5,10,0,0
+"Design a MySQL database schema for a social media platform, including entity relationship diagrams and indexing strategies.",Research,40,15,10,10,0,5,0,0
+Explain the difference between a hypothesis and a theory in scientific research.,Writing,35,15,10,10,0,0,0,0
+Can you do that thing with the data?,Machine Learning,0,0,0,0,0,0,0,0
+Implement a model to predict customer satisfaction based on demographic data and purchase history.,Machine Learning,22,12,0,10,0,0,0,0
+Write a technical whitepaper on a new datacenter architecture. Include design principles and performance metrics.,Writing,32,12,0,10,0,10,0,0
+Research and compare the performance of different regression algorithms on a dataset of continuous values. Consider metrics such as mean squared error and coefficient of determination.,Research,27,12,5,10,0,0,0,0
+Build a model to classify text into different categories based on its sentiment and tone. The model should be able to handle text of varying lengths and formats. Use a dataset from a reputable source and evaluate the model's performance using accuracy and precision metrics.,Machine Learning,59,12,10,12,5,10,0,10
+I want to make a JavaScript program that sorts an array of strings alphabetically.,General,22,12,0,10,0,0,0,0
+"Write a 3-page historical narrative about the rise of the Renaissance in Europe. Include key figures, events, and cultural developments that shaped the movement's success. Format the text as a descriptive essay with a clear structure and logical progression of ideas. Assume an audience with a background in art history.",Writing,55,12,10,12,5,12,0,5
+Write a Java program to find the minimum value in an array of integers.,Programming,35,15,5,15,0,0,0,0
+Write a poem about nature.,Writing,5,5,0,0,0,0,0,0
+Develop a system to classify customer reviews as positive or negative. ,Machine Learning,17,12,0,5,0,0,0,0
+Write an article about AI ethics.,Research,15,5,5,5,0,0,0,0
+Write a shell script to automate the creation of AWS IAM roles and policies for our company's DevOps team.,DevOps,34,12,10,12,0,0,0,0
+Create a model to classify images into different object categories based on their characteristics. The model should be able to handle images of varying sizes and formats.,Machine Learning,32,12,5,10,0,0,0,5
+Design a JavaScript application that can handle user authentication.,Programming,22,12,0,10,0,0,0,0
+Develop a Python program to perform merge sort on a list of integers,Programming,30,15,0,15,0,0,0,0
+Create a sales page for a hardware product. Include a list of features and benefits.,Writing,27,12,0,10,0,5,0,0
+Analyze the customer churn rate of a telecom company based on its customer usage patterns.,Machine Learning,35,12,10,13,0,0,0,0
+Implement a stack using a linked list in Python.,Programming,35,15,5,15,0,0,0,0
+Develop a system to classify customers based on their creditworthiness. ,Machine Learning,17,12,0,5,0,0,0,0
+Explore the effects of social media on mental health.,Research,22,12,5,5,0,0,0,0
+I need a C++ program that sorts an array of integers in ascending order using quicksort. The program should take an array and its size as input and return the sorted array.,General,45,15,0,15,0,15,0,0
+Create a model to predict stock prices based on historical data. Use only technical indicators. ,Machine Learning,32,12,5,10,0,0,0,5
+"Develop a model to classify text into positive, negative, or neutral categories. The model should be able to handle text of varying lengths and formats. Use a dataset from a reputable source and evaluate the model's performance using accuracy and precision metrics.",Machine Learning,54,12,10,12,5,10,0,5
+Implement a simple queue data structure in Python.,Programming,30,15,0,15,0,0,0,0
+"Develop a recommendation system for music streaming services using collaborative filtering and matrix factorization. Implement the model in Python with a code repository hosted on GitHub. Provide a detailed report in a Jupyter Notebook, including explanation, code, and visualizations. ",Research,34,12,0,10,0,12,0,0
+Develop a model to predict customer churn for telecom users based on usage patterns over the past 3 months. Output a probability score and top 5 features contributing to churn.,Machine Learning,54,12,10,12,5,10,0,5
+Design a Python GUI application using PyQt to display a simple calculator with buttons for numbers and operators.,Programming,37,15,10,12,0,0,0,0
+Explain the concept of a black hole.,Writing,30,10,5,5,0,0,0,0
+I need a script to convert a PDF file to a Word document.,General,35,10,5,10,0,10,0,0
+Create a Java application that plays a simple game of tic-tac-toe against a human player.,General,44,12,5,12,5,10,0,0
+Design a microservice architecture using Node.js and Express for a real-time analytics application,Programming,34,12,10,12,0,0,0,0
+Train a model to classify breast cancer images using a publicly available dataset. Compare its performance with a traditional machine learning approach. ,Machine Learning,49,12,10,12,5,10,0,0
+Create a deployment script for a Java application using Kubernetes and output the YAML file in the format specified by the Kubernetes configuration file.,DevOps,49,12,10,12,0,12,0,5
+Develop a Java Spring Boot application that integrates with Apache Cassandra for distributed NoSQL database. Implement data retrieval and error handling. quality: excellent,DevOps,40,12,10,13,5,0,0,0
+Study the effect of exercise on anxiety.,Research,17,12,0,5,0,0,0,0
+"Develop a Python script to analyze the sentiment of customer reviews for an e-commerce company, considering both the product and the company itself. Output should be a CSV file with columns for the review ID, product name, overall sentiment, and a binary classification of whether the review is positive or negative. The script should handle missing values and outliers, and include comments explaining each section of the code.",Research,59,12,10,12,5,10,0,10
+"Can you write a function that prints 'Hello, World!' to the console 10 times?",General,40,15,0,15,0,15,0,5
+Create a JavaScript function to sort an array of objects in ascending order based on a specific property.,Programming,50,15,10,15,0,10,0,0
+"Train a model to classify product reviews as positive or negative using a dataset of 10,000 reviews. Output a precision and recall score.",Machine Learning,44,12,5,12,0,10,0,5
+Develop a Go program to automate the process of checking for disk space usage on a Linux server.,DevOps,34,12,10,12,0,0,0,0
+Create a Python script to automate Jenkins build and deployment for a Python application. Use Jenkins API and handle build states. quality: good,DevOps,54,12,10,12,5,10,0,5
+Describe a day in the life of a person. Write using 250 words.,Writing,15,5,0,0,0,5,0,5
+Create a predictive model to forecast energy consumption based on weather patterns and historical data.,Machine Learning,34,12,10,12,0,0,0,0
+Design a REST API using Django to handle user registration and login.,Programming,34,12,10,12,0,0,0,0
+"Write a 5-paragraph essay on the cultural impact of virtual reality on society by 2025, including a critique of its accessibility and social implications. Format the essay as a persuasive piece with a clear thesis statement. Assume an audience with a background in social sciences. Limit the text to 750 words.",Writing,64,12,10,12,5,13,0,12
+"I need a story about a person who overcomes a tragic event in their life. The story should be 4-5 pages long, written in the third person, and include themes of resilience and hope. Use vivid descriptions to bring the character to life.",Writing,41,12,5,13,0,10,0,5
+Explain the benefits of meditation.,Writing,15,10,0,5,0,0,0,0
+Compare and contrast the features and pricing plans of popular cloud computing platforms.,Research,44,12,10,12,0,10,0,0
+Build a model to classify images into different categories.,Machine Learning,17,12,0,5,0,0,0,0
+Develop a Python script to check if a given string is a valid email or not.,Programming,40,15,10,15,0,0,0,0
+Build a neural network for classifying handwritten digits. Use MNIST dataset and achieve at least 95% accuracy. ,Machine Learning,49,12,10,12,5,0,0,10
+Write a Python function to find the maximum and minimum elements in a 2D array.,Programming,30,15,0,15,0,0,0,0
+"Write a historical fiction novel chapter 5. The war had ended, and the survivors must rebuild their lives.",Writing,27,12,5,10,0,0,0,0
+Build a model to classify text into different categories based on its sentiment and tone. The model should be able to handle text of varying lengths and formats. Use a dataset from a reputable source and evaluate the model's performance using accuracy and precision metrics.,Machine Learning,59,12,10,12,5,10,0,10
+Explain the concept of natural language processing and its applications.,Writing,25,10,5,5,0,5,0,0
+Develop a recommender system for a e-commerce website that suggests products to users based on their past purchases and browsing history. The system should be able to handle large datasets and make recommendations in real-time. Use a combination of collaborative filtering and content-based filtering to improve the system's performance.,Machine Learning,50,12,10,13,5,5,0,5
+Develop a tool to automate the process of sending reminders to users.,General,27,12,5,10,0,0,0,0
+"Create a C++ class for a stack with push, pop, and peek operations.",Programming,30,15,0,15,0,0,0,0
+Can you write a script to deploy a Ruby on Rails application to a Heroku platform? Please provide the code and a step-by-step explanation of how it works.,DevOps,49,12,10,12,5,10,0,0
+Write a short story about a person who is struggling to find their place in the world. Write using 500 words.,Writing,37,12,5,5,0,10,0,5
+Write a sci-fi short story about a group of space explorers who stumble upon an abandoned alien city on a remote planet in the Alpha Centauri system.,Writing,34,12,10,12,0,0,0,0
+I need a program that does something with data,General,5,5,0,0,0,0,0,0
+"Generate a JavaScript function that calculates the total cost of items in a shopping cart, taking into account sales tax and discounts.",General,50,15,10,15,0,10,0,0
+Develop a system to classify text as informative or not. ,Machine Learning,17,12,0,5,0,0,0,0
+Create a C++ program that takes a list of integers and returns the sum of the squares of the even numbers.,General,45,15,0,15,0,15,0,0
+Create a JavaScript function to check if a string is a palindrome.,General,30,15,0,15,0,0,0,0
+Develop a model to predict the likelihood of a customer making a purchase based on their browsing history and purchase behavior.,Machine Learning,54,12,10,12,5,10,5,0
+Use Python and the Scikit-image library to apply edge detection techniques (such as Canny or Sobel) to an image and visualize the results.,Research,49,12,10,12,5,10,0,0
+Build a model to classify images into different categories using transfer learning. ,Machine Learning,27,12,5,10,0,0,0,0
+Create a Python function to calculate the average rating of products in an e-commerce platform given a list of product IDs and corresponding ratings. The function should handle missing ratings and return a dictionary with product IDs as keys and average ratings as values.,Programming,54,12,10,12,5,12,0,5
+What is recursion?,General,25,10,5,10,0,0,0,0
+Create a C++ function to calculate the factorial of a given integer. The function should handle negative numbers and return an error message.,Programming,44,12,5,12,0,10,0,5
+Describe a typical day in the life of a chef.,Writing,27,12,5,5,5,0,0,0
+Develop a recommender system for an e-commerce platform based on customer purchase history and product categories. The system should be able to handle missing values and recommend at least 5 products per user. Provide a detailed report and code for the same. ,Machine Learning,54,12,10,12,5,10,0,5
+Create a script for a children's story about a group of animals who learn to work together to overcome a challenge. Include a catchy song and a visually appealing setting.,Writing,32,12,5,10,0,5,0,0
+"Create a Python script to perform data visualization for a machine learning task (e.g., plotting decision boundaries, visualizing feature importance). Use the Iris dataset for evaluation and provide a plot showing the results.",Research,64,12,10,12,5,10,10,5
+Write a C# program to display the Fibonacci sequence up to the nth number.,General,35,15,5,15,0,0,0,0
+Write a product review of a new wireless headphone model. Focus on its sound quality and battery life.,Writing,27,12,5,10,0,0,0,0
+Implement a simple queue data structure in C++.,Programming,27,12,5,10,0,0,0,0
+"Write a Python script to scrape product information from an e-commerce website using BeautifulSoup and requests libraries. The script should extract product titles, prices, and descriptions.",Programming,34,12,10,12,0,0,0,0
+Create a model to classify text as spam or not spam using natural language processing and machine learning. Provide a code repository hosted on GitHub and a detailed report in a Markdown document. ,Research,50,15,10,10,0,15,0,0
+Write a personal essay about a challenging experience you had and how it shaped your perspective on life.,Writing,27,12,5,10,0,0,0,0
+Write a Python function to generate a Fibonacci sequence up to a specified length.,Programming,30,15,0,15,0,0,0,0
+Write a Java program to find the prime numbers up to a given number.,General,30,15,0,15,0,0,0,0
+Create a user manual for a new software product. Include installation instructions and setup guide.,Writing,20,10,0,5,0,5,0,0
+Tell me about the future of space exploration.,Research,5,5,0,0,0,0,0,0
+Can you generate a Ruby script to scrape data from a website and store it in a CSV file?,General,37,12,5,10,0,10,0,0
+Develop a model to predict the weather in a given location based on historical data and climate indicators.,Machine Learning,49,12,10,12,5,10,0,0
+Write a JavaScript function that takes a string and returns the first occurrence of the word 'hello'.,General,32,12,0,10,0,10,0,0
+Develop a recommender system for movies based on user ratings and genre.,Machine Learning,22,12,0,10,0,0,0,0
+Build a model to predict the stock prices of a company based on historical data and economic indicators. The model should be able to handle large datasets and make predictions for future time steps. Use a combination of supervised and unsupervised learning approaches to improve the model's performance.,Machine Learning,44,12,10,12,0,5,0,5
+Create a script that generates a 5x5 matrix with random numbers between 1 and 100.,General,45,15,0,15,0,15,0,0
+Design a microservice architecture using Python and Flask for a web application,Programming,27,12,5,10,0,0,0,0
+"Design a Python GUI application using wxPython to display a simple clock with hours, minutes, and seconds.",Programming,40,15,10,15,0,0,0,0
+Imagine a world with no pain. Describe a typical day.,Writing,12,12,0,0,0,0,0,0
+What is the syntax for creating a Java interface?,General,30,15,0,15,0,0,0,0
+"Discuss the advantages and disadvantages of using deep learning models, and provide recommendations for choosing the right model.",Research,27,12,0,10,0,5,0,0
+Build a model to classify images into different categories using convolutional neural networks. ,Machine Learning,22,12,0,10,0,0,0,0
+"Create a dashboard to visualize the performance of a machine learning model, including metrics such as accuracy, precision, and recall.",Research,37,12,5,10,0,10,0,0
+Write a C++ program to find the maximum value in an array of integers.,Programming,30,15,0,15,0,0,0,0
+I am trying to automate my cloud deployment by using a Terraform script to create a new AWS IAM user and then use the 'aws iam' command to update the user permissions. Please provide the Terraform configuration file and a bash script to automate the process.,DevOps,59,12,10,12,5,10,5,5
+Write a PHP program to connect to a MySQL database and perform CRUD operations.,Programming,27,12,5,10,0,0,0,0
+Create a model to classify images into different object categories based on their characteristics. The model should be able to handle images of varying sizes and formats.,Machine Learning,42,12,5,10,0,5,0,10
+Please set up a CI/CD pipeline for a Python application.,DevOps,30,10,5,10,0,5,0,0
+Develop a script to automate the deployment of a .NET application to a cloud platform using Azure DevOps. Please provide the code and a step-by-step explanation of how it works.,DevOps,54,12,10,12,5,10,5,0
+"Write a 500-word article on the benefits of mindfulness for mental health, including a discussion of the current research and a description of a mindfulness exercise.",Writing,54,12,10,12,5,10,0,5
+Create a C++ program to implement a simple calculator.,Programming,20,10,0,10,0,0,0,0
+Implement a simple stack data structure in C++.,Programming,30,15,0,15,0,0,0,0
+Create a simple game using Python and the Pygame library. Include characters that can move around the screen.,Programming,27,12,5,10,0,0,0,0
+"Create a 5-page guide on how to improve your teamwork and collaboration skills. The guide should be written in a clear and concise tone, include actionable tips, and assume an audience with a basic understanding of team dynamics principles.",Writing,64,12,10,12,5,10,5,10
+Write a C++ program to find the average value of all elements in an array.,Programming,30,15,0,15,0,0,0,0
+"Design a system to generate synthetic data for machine learning models, including data augmentation and noise injection.",Research,35,12,10,13,0,0,0,0
+What are some common machine learning algorithms for clustering? ,Research,27,12,5,10,0,0,0,0
+Develop a classification model using support vector machines to predict customer churn based on demographic data and purchase history.,Machine Learning,27,12,5,10,0,0,0,0
+I want to make a JavaScript program that takes an object and prints the keys and values.,General,27,12,0,10,0,5,0,0
+"Train a regression model to predict house prices based on features such as number of bedrooms, square footage, and location in a city with a population of over 1 million.",Machine Learning,32,12,5,10,0,0,0,5
+Can you analyze the sentiment analysis of Twitter data and suggest ways to improve the model?,Research,49,12,10,12,5,10,0,0
+Write a Java program to find the factorial of a given number.,General,30,15,0,15,0,0,0,0
+What's the command to update the kernel on our CentOS servers?,DevOps,25,10,5,10,0,0,0,0
+Build a clustering model to group similar customers based on their shopping behavior and purchase history.,Machine Learning,27,12,5,10,0,0,0,0
+Write a case study on a company that successfully implemented an AI-powered marketing platform. What were the results?,Writing,27,12,5,10,0,0,0,0
+Develop a predictive model to forecast daily website traffic based on seasonal patterns and historical data.,Machine Learning,49,12,10,12,5,10,0,0
+Develop a machine learning model to predict stock prices using historical data.,General,27,12,5,10,0,0,0,0
+Develop a tool to automate the process of sending reminders to users using a scheduling library like schedule or APScheduler.,General,34,12,10,12,0,0,0,0
+Implement a JavaScript function to validate a password based on certain conditions.,Programming,15,10,0,5,0,0,0,0
+"Create a GUI application using tkinter to display a simple to-do list with add, remove, and mark as done functionality.",Programming,40,15,10,15,0,0,0,0
+Can you develop a model to predict the likelihood of a customer making a purchase based on their purchase history?,Machine Learning,37,12,5,10,0,10,0,0
+Can you help me write a PowerShell script to backup and restore a SQL Server database on a Windows server? The database is named 'mydb' and the password is 'mysecretpassword'. Please make sure the script works with all Windows versions.,DevOps,54,12,10,12,5,10,0,5
+"Describe a world where technology has advanced to the point where humans are no longer needed. Write in the style of a science fiction novel, focusing on the theme of obsolescence.",Writing,49,12,10,12,5,10,0,0
+"Compose a 30-second news headline for a breaking news story about a new discovery in medicine, including a catchy title and a memorable sound bite.",Writing,59,12,10,12,5,10,5,5
+Can you generate a list of 5 random numbers between 1 and 1000?,General,35,10,0,10,0,10,0,5
+Write a product description for a new smart home device. Focus on its convenience and energy efficiency.,Writing,27,12,5,10,0,0,0,0
+Write a scene from a romance novel where the couple shares their first kiss.,Writing,17,12,0,5,0,0,0,0
+"Create a short story about a character who discovers a hidden talent for music. The story should be 2-3 pages long, written in the first person, and include a sense of joy and wonder. Use vivid descriptions to bring the character to life.",Writing,52,12,10,13,0,12,0,5
+Build a simple RESTful API using Node.js and Express.js to manage a list of books.,Programming,34,12,10,12,0,0,0,0
+Can you generate a PHP script to connect to a PostgreSQL database and retrieve all the tables in the database?,General,39,12,5,12,0,10,0,0
+Can you create a Dockerfile?,DevOps,15,10,0,5,0,0,0,0
+Build a Java program to simulate a bank system with methods to deposit and withdraw money.,Programming,27,12,5,10,0,0,0,0
+Write a C++ program that takes two numbers as input and prints their sum.,General,45,15,0,15,0,15,0,0
+Write a Python script to convert a string to uppercase.,Programming,30,15,0,15,0,0,0,0
+Describe a person who is struggling to cope with the loss of a loved one. Use sensory details to convey their emotions and experiences.,Writing,34,12,10,12,0,0,0,0
+Write a JavaScript function that takes a string and prints its characters in reverse order.,General,22,12,0,10,0,0,0,0
+Build a recommender system for music based on user listening history.,Machine Learning,22,12,0,10,0,0,0,0
+Can you help me write a Python script to automate the deployment of a Pyramid application to a cloud platform? The application is named 'myapp' and the database is named 'mydb'. Please make sure the script works with all cloud platforms.,DevOps,40,12,10,8,0,5,0,5
+Write a sci-fi short story about a group of astronauts who discover a way to travel faster than light.,Writing,12,12,0,0,0,0,0,0
+Write a short script for a horror movie scene where a group of friends discover a mysterious and abandoned asylum. Incorporate jump scares and atmospheric tension.,Writing,39,12,10,12,0,5,0,0
+Write a short story about a group of friends who stumble upon a hidden world within their own dreams.,Writing,22,12,0,10,0,0,0,0
+Create a Jenkinsfile to automate the deployment of our Spring Boot application to our company's production environment.,DevOps,34,12,10,12,0,0,0,0
+I want to make a program that finds the first duplicate in an array.,General,22,12,0,10,0,0,0,0
+Create a character profile for a villain in a story. Include their backstory and motivations.,Writing,30,10,5,10,0,5,0,0
+Implement a Python script to automate Azure DevOps pipeline for a .NET Core application. Use Azure DevOps API and handle pipeline states. quality: poor,DevOps,34,12,10,12,0,0,0,0
+Write a poem.,Research,5,5,0,0,0,0,0,0
+Use a Python library to send emails using SMTP and include attachments.,Programming,32,12,5,10,0,5,0,0
+Write a 15-minute script for a social media video on the latest trends in AI research.,Writing,49,12,10,12,0,10,0,5
+Create a script for a 10-minute panel discussion on the future of space exploration. Include a mix of experts and personal perspectives.,Writing,42,12,5,10,0,10,0,5
+Write a Python function that generates a random binary tree with 100 nodes and prints the pre-order traversal.,Programming,45,15,0,15,0,15,0,0
+Analyze customer purchase behavior and recommend products to customers based on their browsing history and purchase records using a collaborative filtering approach.,Machine Learning,34,12,10,12,0,0,0,0
+Write a scene in a romance novel.,Writing,5,5,0,0,0,0,0,0
+Write a JavaScript code to check if a string is a valid email address.,Programming,35,10,5,10,0,10,0,0
+Write a Python function to check if a number is prime.,General,30,15,0,15,0,0,0,0
+Develop a Python script to automate the process of checking for software updates on a Linux server.,DevOps,44,12,10,12,0,10,0,0
+Develop a Node.js API to manage a list of users. Include CRUD operations for users and ensure data validation.,Programming,22,12,0,10,0,0,0,0
+Write a C++ program to find the maximum value in an array of integers.,Programming,30,15,5,10,0,0,0,0
+Design a data structure to represent a graph and provide methods to add edges and vertices.,General,30,15,5,10,0,0,0,0
+Train a model to predict the performance of a car based on its features and usage patterns and determine the top 5 most frequently used features.,Machine Learning,32,12,0,10,0,10,0,0
+Analyze the performance of a neural network model on a dataset of medical images to predict the presence of breast cancer. Compare the results with current state-of-the-art models and provide recommendations for improvement.,Research,44,12,10,12,0,10,0,0
+Can you write a function that adds two numbers together?,General,30,10,0,10,0,10,0,0
+Build a Python script to simulate a coin toss.,General,30,10,5,10,0,5,0,0
+Write a Java program to find the maximum value in an array of integers.,Programming,35,15,5,15,0,0,0,0
+Describe the process of building a chatbot using natural language processing. ,Research,20,10,5,5,0,0,0,0
+Develop a recommender system for a e-commerce website. The system should be able to recommend products to users based on their past purchases and browsing history. Use a dataset from a reputable source and evaluate the system's performance using metrics such as precision and recall. Consider using collaborative filtering to improve the system's performance.,Machine Learning,54,12,10,12,5,10,0,5
+Please set up a Jenkins pipeline for a Java project and integrate it with GitLab CI/CD.,DevOps,34,12,10,12,0,0,0,0
+Compare and contrast the differences between Python 2 and Python 3.,Research,27,12,5,10,0,0,0,0
+Develop a marketing strategy for a new business.,Writing,20,10,5,5,0,0,0,0
+"Design a Go program to implement a basic web server using the net/http package, including request and response formatting, error handling, and logging.",Research,37,15,10,12,0,0,0,0
+"Write a Python function to preprocess text data for sentiment analysis, including tokenization, stemming, and lemmatization.",Research,37,15,10,12,0,0,0,0
+Develop a Python script to display 'Hello World' on the browser.,Programming,37,12,5,10,0,10,0,0
+Create a Swift function to implement a basic hash table with an average time complexity of O(1) for insertions and deletions.,Research,42,12,5,10,0,10,0,5
+Create a JavaScript program to fetch the current weather for a specific city and display it in the console. Use the OpenWeatherMap API and handle cases where the API returns an error or is slow to respond.,Research,59,12,10,12,5,10,0,10
+"Discuss the differences between supervised and unsupervised learning, and provide examples of each",Research,40,15,0,10,0,0,15,0
+Create a Python script to simulate a simple game of tic-tac-toe.,Programming,30,15,0,15,0,0,0,0
+"Predict customer churn for telecom users based on usage patterns over the past 3 months, with a focus on retaining high-value customers. Output a probability score and top 5 features contributing to churn.",Machine Learning,52,12,10,13,0,12,0,5
+Write a Python script to automate the backup of our MySQL databases on our company's testing environment.,DevOps,44,12,10,12,0,10,0,0
+"Make a C++ program that takes an array of integers, sorts them and prints the result.",General,45,15,0,15,0,15,0,0
+Analyze the impact of data normalization on the performance of a neural network model for a binary classification task. Compare the results with different normalization techniques and provide recommendations for optimal data preprocessing.,Research,49,12,10,12,0,10,5,0
+Write a Python script to find the prime numbers up to a given number.,General,30,15,0,15,0,0,0,0
+Develop a recommendation system for a streaming service based on user watch history and ratings. Provide a list of top 10 show recommendations for a user.,Machine Learning,49,12,10,12,5,10,0,0
+Write a short story about a boy who discovers a mysterious island.,Writing,12,12,0,0,0,0,0,0
+"Design a predictive model to forecast energy consumption in a smart home using time-series analysis and weather data. Implement the model in R, include a detailed report in a PDF document, and provide a sample dataset. ",Research,52,12,10,13,0,12,5,0
+Design a Ruby class to represent a person.,General,27,12,0,15,0,0,0,0
+Implement a queue data structure using a linked list in Python.,General,35,15,5,15,0,0,0,0
+Create a script for a 5-minute podcast episode on the benefits of meditation for mental health. Include a mix of personal stories and expert opinions.,Writing,59,12,10,12,5,10,5,5
+"Craft a social media post for a new line of eco-friendly clothing, including a call-to-action and a hashtag.",Writing,32,12,5,10,0,5,0,0
+What technologies can I use to build a mobile app for tracking fitness goals?,Research,29,12,5,12,0,0,0,0
+Analyze the market trends of a particular stock or cryptocurrency.,Research,32,12,5,5,0,10,0,0
+Create a model to classify images into different animal species. The model should be able to handle images of varying sizes and formats. Use a dataset from a reputable source and evaluate the model's performance using accuracy and precision metrics. Consider using data augmentation to improve the model's performance. Report the results in a table format.,Machine Learning,59,12,10,12,5,12,0,10
+Create a model to predict the probability of a student being accepted into a certain university based on their academic performance and demographic data. Use logistic regression and cross-validation. Provide a detailed report and code for the same. ,Machine Learning,54,12,10,12,5,12,0,5
+Use a PHP library to connect to a MySQL database.,Programming,30,10,5,10,0,5,0,0
+Build a Python script to calculate the volume of a cube.,General,30,15,0,15,0,0,0,0
+What is the difference between throw and throws in Java?,General,40,15,10,15,0,0,0,0
+Implement a Java method to find the maximum and minimum elements in an array.,Programming,30,15,5,10,0,0,0,0
+Can you help me write a Python script to automate the deployment of a Flask application to a cloud platform? The application is named 'myapp' and the database is named 'mydb'. Please make sure the script works with all cloud platforms.,DevOps,39,12,10,12,0,0,0,5
+Write a Bash script to automate AWS Lambda deployment for a Nodejs application. Use AWS CLI and handle deployment states. quality: poor,DevOps,40,12,10,13,0,0,0,5
+Examine the applications of AI in robotics. ,Research,27,12,5,10,0,0,0,0
+Build a simple machine learning model in Python using scikit-learn to classify images.,General,27,12,5,10,0,0,0,0
+What's the command to update the kernel on our CentOS servers?,DevOps,30,10,5,10,0,5,0,0
+Write a scene in a mystery novel.,Writing,5,5,0,0,0,0,0,0
+Develop a model to predict the likelihood of a user engaging with a marketing campaign based on their past interactions and preferences. The model should be able to handle historical data and make predictions for future time steps.,Machine Learning,32,12,5,10,0,0,0,5
+Classify text as hate speech or not hate speech.,Machine Learning,30,15,0,15,0,0,0,0
+Create a Java program to find the factorial of a number,Programming,30,15,0,15,0,0,0,0
+"Design a database schema to store information about books, including title, author, and publication date.",General,35,15,10,10,0,0,0,0
+Design a C++ program to solve a system of linear equations using Gaussian elimination.,Programming,40,15,10,15,0,0,0,0
+Develop a model to predict the stock prices of a company. The model should be able to handle historical data and make predictions for future time steps.,Machine Learning,37,12,5,10,0,5,0,5
+What is the difference between a getter and a setter?,General,25,10,0,10,0,5,0,0
+Study the effect of diet on cardiovascular health.,Research,22,12,5,5,0,0,0,0
+"Create a Python script to generate a random quiz with 10 questions on history, with each question having 4 possible answers and the correct answer being a random choice between them, and save the quiz to a CSV file named 'history_quiz.csv'.",General,45,15,10,15,0,10,0,5
+Develop a model to predict the likelihood of a user responding to a survey based on their past engagement with the survey.,Machine Learning,54,12,10,12,5,10,5,0
+"Build a model to classify news articles as positive, negative, or neutral.",Machine Learning,25,15,0,10,0,0,0,0
+Analyze the performance of different data compression algorithms on a given dataset.,Research,22,12,0,10,0,0,0,0
+Write a short story about a character who discovers a hidden talent for game development. What does he learn?,Writing,32,12,5,10,0,5,0,0
+Can you suggest a CI/CD tool for our company's applications?,DevOps,20,10,5,5,0,0,0,0
+Develop a Terraform configuration to provision an AWS RDS instance with the necessary security groups and configure it to run a MySQL database.,DevOps,34,12,10,12,0,0,0,0
+Create a deployment script for a .NET Core application using Azure DevOps and output the YAML file in the format specified by Azure DevOps.,DevOps,44,12,10,12,0,10,0,0
+Can you provide a general outline of how to automate the deployment of a Perl application to a cloud platform?,DevOps,44,12,10,12,0,10,0,0
+"Create a Python script that generates a password with at least 12 characters, including uppercase letters, lowercase letters, and digits. The password should not contain any of the user's name or birthdate. Return the password as a string.",General,55,15,0,15,0,15,0,10
+"Design a database schema for a social media platform with tables for users, posts, comments and likes",Programming,35,15,10,10,0,0,0,0
+"Create a character profile for an antagonist in a science fiction novel. Include their backstory, motivations, and personality traits.",Writing,39,12,10,12,5,0,0,0
+Implement a decision tree to predict customer segment based on demographic data and purchase history.,Machine Learning,37,12,5,10,0,10,0,0
+Create a Python script to print the sum of numbers in a list.,Programming,40,15,0,10,0,15,0,0
+"Investigate the feasibility of implementing a reinforcement learning algorithm to optimize the navigation system of self-driving cars in urban environments, considering factors such as traffic congestion, pedestrian safety, and road sign recognition. Provide a 5-page report in APA format.",Research,50,12,10,13,0,10,0,5
+Create a simple GUI application using JavaScript and the DOM library to display a list of items and allow users to add or remove items.,Programming,39,12,5,12,0,10,0,0
+Write a Ruby method to check if a given number is odd or even.,Programming,37,12,5,10,0,10,0,0
+Generate a 5-minute script for a short YouTube video explaining the concept of blockchain technology and its applications in finance. Include animations and graphics.,Writing,54,12,10,12,5,10,0,5
+Write a short story about a character who must make a difficult choice.,Writing,10,10,0,0,0,0,0,0
+"Implement a Python class to represent a student with attributes for name, age, and grades. Include methods to calculate the average grade and print the student's report card.",Programming,37,12,0,10,5,10,0,0
+Write a poem about love. I want it to be beautiful and emotional. Just use your words to make me feel something.,Writing,25,10,5,5,0,5,0,0
+Write a shell script to automate AWS CodeBuild deployment for a frontend Angular application. Use AWS CLI and handle build states. quality: excellent,DevOps,54,12,10,12,5,10,0,5
+I need a C++ program that calculates the factorial of a number. The program should take an integer input and return the factorial as a string 'x'.,General,34,12,0,12,0,10,0,0
+Can you write a script to deploy a Node.js application to an Azure Kubernetes Service (AKS) cluster? Please provide the code and a step-by-step explanation of how it works.,DevOps,55,15,15,15,0,10,0,0
+"Create a 5-page guide on how to improve your public speaking skills. The guide should be written in a clear and concise tone, include actionable tips, and assume an audience with a basic understanding of public speaking principles.",Writing,54,12,10,12,5,10,0,5
+Classify text as sarcasm or not sarcasm.,Machine Learning,25,15,0,10,0,0,0,0
+"Develop a Python script that takes user input and calculates the area of a rectangle given its length and width, and output the result in a formatted string.",General,39,12,5,12,0,10,0,0
+Write a Java program to sort an array of integers.,Programming,30,15,0,15,0,0,0,0
+Develop a Python script to automate the process of sending emails to team members if there are any errors.,DevOps,27,12,5,10,0,0,0,0
+Create a character sketch of a historical figure.,Writing,25,10,5,5,0,5,0,0
+"Train a model to classify product reviews as positive or negative using a dataset of 10,000 reviews. Output a classification report.",Machine Learning,42,12,5,10,0,10,0,5
+Write a Java program to find the sum of all elements in an array.,Programming,30,15,0,15,0,0,0,0
+Study the effect of AI on human employment. ,Research,20,10,5,5,0,0,0,0
+Investigate the relationship between air pollution and respiratory diseases.,Research,32,12,10,10,0,0,0,0
+Write a short story about a character who has a secret that could ruin their reputation.,Writing,17,12,0,5,0,0,0,0
+Develop a recommendation system for a streaming service based on user watch history and ratings. Provide a list of top 10 show recommendations for a user.,Machine Learning,49,12,10,12,5,10,0,0
+"Write a persuasive essay arguing in favor of stricter gun laws in the United States. The essay should be 750 words, include statistical data and expert opinions, and be written in a formal tone.",Writing,55,15,10,10,0,10,0,10
+Create a character profile for a hero in a story. Include their backstory and motivations.,Writing,27,12,0,10,0,5,0,0
+Make sure it is efficient.,DevOps,0,0,0,0,0,0,0,0
+Develop a model to predict the likelihood of a user engaging with a marketing campaign based on their past interactions and preferences. The model should be able to handle historical data and make predictions for future time steps.,Machine Learning,37,12,5,10,0,5,0,5
+Design a clustering algorithm to segment customers based on demographic and behavioral data.,Machine Learning,34,12,10,12,0,0,0,0
+Create a Python script that takes a list of numbers and returns the maximum value.,General,45,15,0,15,0,15,0,0
+Can you generate a Java script to connect to a MySQL database and retrieve all the tables in the database?,General,37,12,5,10,0,10,0,0
+Design a Ruby method to calculate the Fibonacci series up to the nth term.,Programming,35,15,5,15,0,0,0,0
+Create a compelling dialogue between two characters with conflicting personalities.,Writing,27,12,0,5,0,10,0,0
+Create a model to predict the probability of a student achieving a certain grade based on their academic performance and demographic data. Use logistic regression and cross-validation. Provide a detailed report and code for the same. ,Machine Learning,52,12,10,13,0,12,0,5
+"I'd like to create a RESTful API using Django to handle user requests. The API should be able to handle GET, POST, PUT, and DELETE requests. Can you provide a basic example?",General,37,12,5,10,0,5,5,0
+Analyze the impact of climate change on global food production.,Research,34,12,10,12,0,0,0,0
+Create a predictive model to forecast the spread of a disease based on historical data and weather patterns.,Machine Learning,34,12,10,12,0,0,0,0
+"Develop a Python script to automate the deployment of a Docker container on AWS EC2 instances using Ansible and Terraform, given a list of 5 instances, including instance id, instance type, and availability zone. Please provide the code and a step-by-step explanation of how it works. Limit the script to 10k lines and ensure it adheres to AWS security best practices.",DevOps,65,15,15,15,0,10,0,10
+Implement a C++ function to calculate the area and perimeter of a rectangle given its width and height.,Programming,35,15,5,15,0,0,0,0
+Can you write a Python function to find the product of all elements in a list,Programming,30,15,0,15,0,0,0,0
+Write a Java Spring Boot application that integrates with Apache Flink for real-time data processing. Implement producer and consumer mechanisms. quality: good,DevOps,49,12,10,12,5,10,0,0
+Create a C++ class for a simple calculator.,Programming,22,12,0,10,0,0,0,0
+"Create a Python program that opens a file and writes the string 'Hello, World!' into it.",General,30,15,0,15,0,0,0,0
+Can you create a model to classify images of animals?,Machine Learning,22,12,0,10,0,0,0,0
+Design a Python function to sort a list of numbers in ascending order using the quicksort algorithm.,Programming,35,15,5,15,0,0,0,0
+What's the command to enable HTTP2 on our Nginx server?,DevOps,27,12,5,10,0,0,0,0
+Develop a detailed plot for a dystopian young adult novel where the main character is a 17-year-old girl who must navigate the dangers of a post-apocalyptic world.,Writing,39,12,10,12,5,0,0,0
+Implement a support vector machine algorithm to classify customers based on their demographic and behavioral data. ,Machine Learning,22,12,0,10,0,0,0,0
+Implement a binary search algorithm in Rust to find a specific element in a sorted array.,Research,35,15,5,15,0,0,0,0
+I want to make a JavaScript program that takes a string and prints its characters in reverse order.,General,27,12,0,10,0,5,0,0
+"Write a Java program to read a text file and extract sentences containing a specific keyword. The program should ignore case and punctuation, and return the extracted sentences in a list.",Programming,39,12,0,12,0,10,0,5
+Can you help me write a bash script to backup and restore a PostgreSQL database on a Ubuntu server? The database is named 'mydb' and the password is 'mysecretpassword'. Please make sure the script works with all Ubuntu versions.,DevOps,44,12,10,12,5,0,0,5
+Write a script for a 2-minute video about the benefits of meditation for mental health.,Writing,49,12,10,12,5,10,0,0
+"Research potential applications of Graph Neural Networks in predicting stock market prices within the next 5 years, considering a minimum 3-year historical dataset. Please provide a detailed report in a Word document, 10-15 pages, with at least 2 references per section. ",Research,61,12,10,12,5,12,0,10
+Build a model to classify text as persuasive or not. ,Machine Learning,15,10,0,5,0,0,0,0
+Create a Python script to monitor network traffic using the scapy library.,Programming,40,15,10,15,0,0,0,0
+Implement a clustering algorithm to group customers based on their demographic and behavioral data. Use a publicly available dataset. ,Machine Learning,27,12,5,10,0,0,0,0
+Develop a recommender system for a news platform based on user ratings and preferences. The system should be able to handle missing values and recommend at least 5 items per user. ,Machine Learning,32,12,5,10,0,0,0,5
+Build a neural network to classify text as spam or not spam.,Machine Learning,20,10,0,10,0,0,0,0
+"Create a Java program to simulate the behavior of a coin toss, displaying the results and calculating the probability of getting heads or tails.",Research,39,12,5,12,0,10,0,0
+Create a model to predict the probability of a student dropping out based on their academic performance and demographic data. Use logistic regression and cross-validation. Provide a detailed report and code for the same. ,Machine Learning,57,12,10,13,5,12,0,5
+"Describe a city that is entirely made of gold. Write in the style of a fantasy novel, focusing on the theme of wealth and luxury.",Writing,49,12,10,12,5,10,0,0
+Write a Go program to find the maximum value in a slice of integers,Programming,30,15,0,15,0,0,0,0
+"Write a persuasive essay arguing in favor of universal healthcare. The essay should be 500 words, include statistical data and expert opinions, and be written in a formal tone.",Writing,50,15,10,10,0,10,0,5
+"Write a 500-word blog post on the benefits of using machine learning for personalized medicine, including examples and statistics. Include three case studies and a conclusion. Format the post with headings and subheadings. Use a formal tone and include a call-to-action at the end.",Writing,67,15,10,12,0,12,10,10
+Can you generate a list of 5 random numbers between 1 and 100?,General,50,15,0,15,0,15,0,5
+"Create a Python function to calculate the average word length of a given text file, considering only words with 3 or more characters. Handle exceptions for invalid file paths and ensure the result is rounded to two decimal places.",Programming,64,15,10,12,5,10,0,12
+"Generate a Go program that calculates the Fibonacci sequence up to a given number, then prints the result.",General,45,15,0,15,0,15,0,0
+Design a recommendation engine for products based on user behavior and contextual information.,Machine Learning,34,12,10,12,0,0,0,0
+Write a piece of creative nonfiction about a person who experiences a life-changing event. I want it to be reflective and thought-provoking. Just explore the themes of transformation and personal growth.,Writing,32,12,5,10,0,5,0,0
+"Generate a Python script that reads a CSV file and outputs the unique values in a specific column, formatted as a JSON object.",General,37,12,5,10,0,10,0,0
+Develop a recommendation system for a e-commerce platform based on user purchase history and product features. Provide a list of top 10 product recommendations for a user.,Machine Learning,49,12,10,12,5,10,0,0
+Design a simple banking system using object-oriented programming in Python.,General,30,15,5,10,0,0,0,0
+Develop a program to calculate the average of all the numbers in a given list.,Research,30,15,0,15,0,0,0,0
+Write a short script for a comedy TV show scene where two characters get into a ridiculous argument over a silly topic.,Writing,27,12,0,10,0,5,0,0
+Please set up a monitoring system for a Java application.,DevOps,15,10,0,5,0,0,0,0
+Write a product description for a new line of eco-friendly cleaning products. Focus on their natural ingredients and effectiveness.,Writing,27,12,5,10,0,0,0,0
+Develop a Ruby program to perform insertion sort on an array of integers,Programming,30,15,0,15,0,0,0,0
+Can you create a model to classify text as positive or negative?,Machine Learning,30,10,0,10,0,10,0,0
+Train a model to recognize hand-written digits.,Machine Learning,20,10,0,10,0,0,0,0
+Create a model that can recognize objects in images.,Machine Learning,22,12,0,10,0,0,0,0
+Write a short story about a group of friends who go on a vacation.,Writing,15,10,5,0,0,0,0,0
+Develop a Terraform configuration to provision an AWS S3 bucket with the necessary access controls and configure it to store data from a Java application.,DevOps,35,12,10,13,0,0,0,0
+I need a script to automate the deployment of a PHP application to a cloud platform. Please provide the code and a step-by-step explanation of how it works.,DevOps,44,12,10,12,0,10,0,0
+Build a model that can classify images into cats and dogs.,Machine Learning,20,10,0,10,0,0,0,0
+Can you write a Python function to find the product of all elements in a 2D list,Programming,45,15,5,15,0,10,0,0
+Create a simple game using JavaScript and the Phaser library. Include characters that can move around the screen.,Programming,27,12,5,10,0,0,0,0
+Write a C++ function to calculate the greatest common divisor (GCD) of two integers using the Euclidean algorithm.,Programming,40,15,10,15,0,0,0,0
+Train a model to recognize objects in images using transfer learning.,Machine Learning,22,12,0,10,0,0,0,0
+Create a script to send a weekly report about system resource usage to our team's email list.,DevOps,37,12,5,10,0,10,0,0
+Please automate the process of starting and stopping services on a Windows server.,DevOps,27,12,5,10,0,0,0,0
+"Generate a Go program that calculates the time complexity of a given algorithm, then prints the result.",General,37,12,0,15,0,10,0,0
+Use Python and the Scikit-learn library to develop a simple classifier for a binary classification task.,Research,27,12,5,10,0,0,0,0
+Machine learning question,Machine Learning,0,0,0,0,0,0,0,0
+"Develop Nodejs application that interacts with Azure Service Bus using azure-functions. Implement auto-retrying mechanism, error logging and metrics monitoring. quality: excellent",DevOps,49,12,10,12,5,0,0,5
+Implement a decision tree algorithm to classify customers based on their demographic and behavioral data. ,Machine Learning,24,12,0,12,0,0,0,0
+Develop a Python program to perform counting sort on a list of integers,Programming,30,15,0,15,0,0,0,0
+Write a JavaScript function that takes a string and returns the string with all characters in lowercase.,General,30,15,0,15,0,0,0,0
+Design a system to recommend products to customers based on their browsing history and preferences. Implement the model in Java with a code repository hosted on GitHub. Provide a detailed report in a PDF document. ,Research,37,12,5,10,0,10,0,0
+Implement a binary search algorithm in Java to find a specific element in a sorted array. Include a test suite to verify the correct execution of the algorithm.,Research,50,15,10,15,0,10,0,0
+Create a model to classify text into different categories based on its sentiment and tone. The model should be able to handle text of varying lengths and formats. Use a dataset from a reputable source and evaluate the model's performance using accuracy and precision metrics.,Machine Learning,61,12,10,12,5,12,0,10
+Develop a model to predict the stock prices of a company.,Machine Learning,17,12,0,5,0,0,0,0
+Create a list of 10 common medical conditions that can be treated with physical therapy.,Writing,45,15,10,10,0,10,0,0
+Write a short story about a group of friends who go on a road trip across the United States.,Writing,27,12,5,10,0,0,0,0
+Can you write a research paper on AI in cybersecurity?,Research,15,10,0,5,0,0,0,0
+Create a script that takes a string as input and prints it in reverse.,General,30,15,0,15,0,0,0,0
+Build a model to predict the stock prices of a company. The model should be able to handle historical data and make predictions for future time steps. Use a dataset from a reputable source and evaluate the model's performance using metrics such as mean absolute error and mean squared error. Consider using a combination of supervised and unsupervised learning approaches to improve the model's performance.,Machine Learning,44,12,10,12,0,5,0,5
+Build a model to classify text as enthusiastic or not. ,Machine Learning,22,12,0,10,0,0,0,0
+Create a Python script to convert images from one format to another using Pillow library.,Programming,30,15,5,10,0,0,0,0
+Create a simple GUI application using JavaScript and the DOM library to display a list of items and allow users to add or remove items.,Programming,37,12,5,10,0,10,0,0
+Analyze the sentiment of customer reviews on Yelp and determine the top 5 positive and negative words used.,Machine Learning,44,12,10,12,0,10,0,0
+Create a model to classify text into different categories based on its sentiment. The model should be able to handle text of varying lengths and formats. Use a dataset from a reputable source and evaluate the model's performance using accuracy and precision metrics.,Machine Learning,62,12,10,13,5,12,0,10
+Develop a system to recommend products to customers based on their search history and purchase behavior. The system should be able to handle missing values and recommend at least 10 products per user. ,Machine Learning,32,12,5,10,0,0,0,5
+Create a simple chatbot using JavaScript and the Watson API to respond to basic user queries.,Programming,37,12,5,10,0,10,0,0
+Develop a JavaScript function to find the sum of all elements in a given array.,Programming,45,15,5,15,0,10,0,0
+Design a JavaScript function to validate a credit card number using the Luhn algorithm.,Programming,40,15,10,15,0,0,0,0
+Find the optimal combination of hyperparameters for a linear regression model to predict house prices in Boston using the Boston Housing dataset from Kaggle. Use GridSearchCV from Scikit-learn and evaluate the model's performance on the test set. Include a brief discussion of the significance of the features and the results.,Research,54,12,10,12,5,10,0,5
+Create a PHP script to display 'Hello World' on the browser.,Programming,37,12,5,10,0,10,0,0
+Write a Java Spring Boot application that integrates with RabbitMQ for distributed task queueing. Implement dead-letter queue and error handling. quality: poor,DevOps,27,12,5,10,0,0,0,0
+"Implement a Java class for a binary search tree with methods for insert, delete, and search operations.",Programming,30,15,0,15,0,0,0,0
+Analyze the sentiment of social media posts and determine the top 5 hashtags used.,Machine Learning,35,10,5,10,0,10,0,0
+What is the difference between null and undefined in JavaScript?,General,40,15,10,15,0,0,0,0
+"Write a 3-page historical narrative about the rise of the Industrial Revolution in Britain. Include key figures, events, and cultural developments that shaped the movement's success. Format the text as a descriptive essay with a clear structure and logical progression of ideas. Assume an audience with a background in history.",Writing,55,12,10,12,5,12,0,5
+"Create a 1-page business plan for a startup that specializes in virtual reality entertainment, including a market analysis and financial projections.",Writing,44,12,10,12,0,10,0,0
+Create a Java program that takes a list of integers and returns the sum of the squares of the even numbers.,General,45,15,0,15,0,15,0,0
+Develop a Python script to monitor our company's system resource usage and send alerts if resources fall below a certain threshold.,DevOps,42,12,5,10,0,10,0,5
+"Create a character profile for a protagonist in a historical drama novel. Include their backstory, motivations, and personality traits.",Writing,39,12,10,12,5,0,0,0
+Examine the impact of sleep deprivation on cognitive function.,Research,22,12,0,10,0,0,0,0
+"Design a program to generate random passwords with a combination of uppercase and lowercase letters, numbers, and special characters.",Research,51,15,10,12,0,10,0,5
+Implement a Java class for a queue with methods for enqueue and dequeue operations.,Programming,27,12,5,10,0,0,0,0
+Machine learning stuff,Machine Learning,0,0,0,0,0,0,0,0
+Describe a typical day in the life of a doctor.,Writing,27,12,5,5,5,0,0,0
+Create a model to classify text into different categories based on its sentiment. The model should be able to handle text of varying lengths and formats. Use a dataset from a reputable source and evaluate the model's performance using accuracy and precision metrics.,Machine Learning,54,12,10,12,5,10,0,5
+Develop a marketing strategy for a new product.,Writing,15,10,0,5,0,0,0,0
+Can you provide some ideas on how to apply AI in marketing?,Research,25,5,5,5,0,10,0,0
+Train a model to recognize objects in images using a transfer learning approach.,Machine Learning,22,12,0,10,0,0,0,0
+I need help,General,0,0,0,0,0,0,0,0
+"Build a RESTful API using Node.js and Express to create, read, and update user information in a PostgreSQL database.",General,40,15,10,15,0,0,0,0
+Create a Terraform configuration to create an AWS CloudFront distribution for our company's S3 bucket.,DevOps,34,12,10,12,0,0,0,0
+Research and implement a chatbot using rule-based systems for customer service. Train it on a dataset of customer queries and evaluate its performance using metrics such as accuracy and response time.,Research,32,12,5,10,0,5,0,0
+Create a model to predict the probability of a student achieving a certain grade based on their academic performance and demographic data. Use logistic regression and cross-validation. Provide a detailed report and code for the same. ,Machine Learning,54,12,10,12,5,10,0,5
+Create a model to classify text as formal or informal based on its content.,Machine Learning,22,12,0,10,0,0,0,0
+Develop a model to predict the likelihood of a user responding to a survey based on their past engagement with the survey and demographic information.,Machine Learning,35,12,10,13,0,0,0,0
+"Create a simple calculator that can perform basic math operations like addition, subtraction, multiplication, and division.",General,32,12,0,10,0,10,0,0
+"Create a 2-page press kit for a new product launch, including a description of the product and a list of key features.",Writing,32,12,0,10,0,10,0,0
+Write a poem about the beauty of nature.,Writing,20,10,5,5,0,0,0,0
+Machine learning task,Machine Learning,5,5,0,0,0,0,0,0
+Write a piece of literary fiction about a character who grapples with their mental health. I want it to be thought-provoking and emotionally resonant. Just explore the themes of mental health and stigma.,Writing,37,12,5,10,0,5,0,5
+"Write a PHP function that generates a random number between 1 and 100, then prints the result.",General,30,10,0,10,0,10,0,0
+Can you help me write a PowerShell script to automate the deployment of a SQL Server database on a cloud platform? The database is named 'mydb' and the password is 'mysecretpassword'. Please make sure the script works with all cloud platforms.,DevOps,49,12,10,12,5,5,0,5
+I need a script to extract data from an Excel file.,General,15,10,0,5,0,0,0,0
+Create a model that can recognize hand-written digits.,Machine Learning,20,10,0,10,0,0,0,0
+Create a Ruby program to implement a basic hash table with an average time complexity of O(1) for insertions and deletions.,Research,42,12,5,10,0,10,0,5
+"Design a C++ class for a priority queue with insert, delete, and peek operations.",Programming,30,15,0,15,0,0,0,0
+Design a Python program to simulate a bank account system with multiple users.,Programming,27,12,5,10,0,0,0,0
+Write a product comparison between two laptop models. Focus on their performance and battery life.,Writing,37,12,5,10,0,10,0,0
+"Design a C++ class to represent a graph with unweighted edges, and provide methods for adding nodes and edges, as well as finding the shortest path between two nodes.",General,24,12,0,12,0,0,0,0
+"Make a Java class to represent a student, with methods for getting and setting student information.",General,22,12,0,10,0,0,0,0
+Develop a C++ program to perform matrix multiplication,Programming,30,15,0,15,0,0,0,0
+Analyze the sentiment of customer feedback about a specific product over the past year. Identify key drivers of positive sentiment.,Machine Learning,37,12,5,10,0,10,0,0
+Tell me about the future of renewable energy sources.,Research,20,10,5,5,0,0,0,0
+"Implement a JavaScript class to represent a bank account with properties for account number, balance, and owner. The class should include methods to deposit and withdraw money.",Programming,22,12,0,10,0,0,0,0
+Create a Java script to check if a given string is a palindrome or not.,Programming,30,15,5,10,0,0,0,0
+Create a model that can classify text as sarcastic or not.,Machine Learning,25,10,5,10,0,0,0,0
+I need a script to automate the deployment of a Java application to a Tomcat server. Please provide the code and a step-by-step explanation of how it works.,DevOps,44,12,10,12,0,10,0,0
+Develop a Python script to monitor our company's system resource usage and send alerts for unusual activity.,DevOps,37,12,5,10,0,10,0,0
+Design a function in Python that takes a list of strings and returns the first string that meets a certain condition.,General,37,12,5,10,0,10,0,0
+"Create a Go program that simulates a bank account, with methods for depositing and withdrawing funds, as well as getting the current balance.",General,27,12,0,10,0,5,0,0
+"Build a PHP web application to display a list of employees with their names, positions, and salaries. Include a search function to filter employees by name or position.",Programming,34,12,0,12,0,10,0,0
+Create a C++ program to perform shell sort on an array of integers,Programming,35,15,5,15,0,0,0,0
+"Develop a Python script to generate a random password for a user based on their preferences, including length, character set, and uniqueness.",Research,44,12,5,12,0,10,0,5
+Write a JavaScript code to check if a number is prime.,Programming,45,15,0,15,0,15,0,0
+Create a Java program that takes a string and returns the string with all characters in uppercase.,General,30,15,0,15,0,0,0,0
+Use a Python library to connect to a PostgreSQL database.,Programming,20,10,0,10,0,0,0,0
+"Develop a technical specification for a new product that enables users to track and manage their physical activity. The document should be 5-7 pages long, written in a technical tone, and include details on the hardware and software requirements, interface design, and testing procedures. Assume an audience with a background in computer science and exercise science.",Writing,62,12,10,13,5,12,0,10
+Develop a Java program to display the binary representation of a given number.,General,37,12,5,10,0,10,0,0
+Create a tutorial on how to create a custom AI model using a popular framework.,Writing,27,12,5,10,0,0,0,0
+Create a Dockerfile for a Python application that uses Flask and runs on Ubuntu 18.04. The image should be 100MB in size and have a multi-stage build. quality: excellent,DevOps,40,12,10,13,0,0,0,5
+Imagine a world with no gravity. Describe a typical day.,Writing,22,12,5,5,0,0,0,0
+Build a simple machine learning model in Python using scikit-learn to classify handwritten digits.,General,29,12,5,12,0,0,0,0
+Can you provide a general outline of how to automate the deployment of a Scala application to a cloud platform?,DevOps,44,12,10,12,0,10,0,0
+Examine the applications of computer vision in healthcare. ,Research,22,12,5,5,0,0,0,0
+Can you generate a PHP script to connect to a MySQL database and retrieve all the tables in the database?,General,37,12,5,10,0,10,0,0
+"I'm looking for a historical fiction novel set in ancient Greece. The story should be 5-7 chapters long, written in the third person, and include themes of honor, duty, and loyalty. Use vivid descriptions to bring the setting to life.",Writing,42,12,5,10,0,5,0,10
+"Create a 1-page press release for a new product launch, including a description of the product and a statement from the CEO.",Writing,32,12,0,10,0,10,0,0
+Create a Kubernetes deployment for a web application written in Python. The service should run on port 80 and use load balancing. quality: poor,DevOps,32,12,5,10,0,0,0,5
+Create a Ruby program that connects to a SQLite database and performs CRUD operations.,Programming,27,12,5,10,0,0,0,0
+"I need a Python script to scrape the title and body of a webpage, and print these to the console.",General,32,12,0,10,0,10,0,0
+"Implement a Python class to represent a bank account with properties for account number, balance, and owner. The class should include methods to deposit and withdraw money.",Programming,22,12,0,10,0,0,0,0
+Train a model to predict the performance of a car based on its features and usage patterns.,Machine Learning,32,12,5,10,0,5,0,0
+Develop a Python program to simulate a bank account.,General,15,10,0,5,0,0,0,0
+Analyze the sentiment of customer feedback about a specific product over the past year. Identify key drivers of positive and negative sentiment.,Machine Learning,49,12,10,12,5,10,0,0
+Develop a recommender system for a e-commerce website that suggests products to users based on their past purchases and browsing history. The system should be able to handle large datasets and make recommendations in real-time. Use a combination of collaborative filtering and content-based filtering to improve the system's performance.,Machine Learning,44,12,10,12,5,0,0,5
+Develop a classification model using logistic regression to predict customer churn based on demographic data and purchase history.,Machine Learning,37,12,5,10,0,10,0,0
+"Write a persuasive essay arguing in favor of increased funding for arts programs in schools. The essay should be 1000 words, include personal anecdotes and expert opinions, and be written in a formal tone.",Writing,66,12,10,12,5,10,5,12
+Write a script for a video about the benefits of a plant-based diet.,Writing,12,12,0,0,0,0,0,0
+Implement a random forest to predict stock prices based on historical data.,Machine Learning,27,12,5,10,0,0,0,0
+I need help with a project,Research,5,5,0,0,0,0,0,0
+Develop a script to automate the deployment of a MongoDB database on a MongoDB Atlas cluster using a Terraform configuration file. Please provide the code and a step-by-step explanation of how it works.,DevOps,49,12,10,12,0,10,5,0
+Develop a web scraping tool using BeautifulSoup and Scrapy to extract information from a website about the latest news in technology.,General,34,12,10,12,0,0,0,0
+Analyze the impact of social media on mental health.,Research,32,12,10,10,0,0,0,0
+"Develop a technical specification for a new product that enables users to create and edit 3D models. The document should be 5-7 pages long, written in a technical tone, and include details on the hardware and software requirements, interface design, and testing procedures. Assume an audience with a background in computer-aided design (CAD) and engineering.",Writing,62,12,10,13,5,10,0,12
+"Create a Java program to simulate a game of Rock, Paper, Scissors, allowing users to play against the computer.",Research,44,12,5,12,5,10,0,0
+Write a C++ program that takes a string as input and prints its length.,General,25,10,0,10,0,5,0,0
+Write a Python script to integrate Slack with Prometheus and Grafana for alerting and visualization. Use Slack API and ensure bot is properly configured. quality: excellent,DevOps,54,12,10,12,5,10,0,5
+I need a script to send an email from my server using Python.,General,30,10,5,10,0,5,0,0
+I have a dataset of customer interactions. Can you build a model to identify the most effective marketing channels?,Machine Learning,27,12,5,10,0,0,0,0
+Can you provide a general outline of how to automate the deployment of a C++ application to a cloud platform?,DevOps,44,12,10,12,0,10,0,0
+Make sure the system is secure.,DevOps,5,5,0,0,0,0,0,0
+Write a Python script to automate Docker deployment for a web application. Use Docker API and ensure proper configuration. quality: poor,DevOps,32,12,5,10,0,0,0,5
+"Build a simple RESTful API in Python using Flask that allows users to create, read, and delete books.",General,37,12,5,10,0,10,0,0
+I have a dataset of customer interactions. Can you build a model to identify the most effective marketing channels?,Machine Learning,27,12,5,10,0,0,0,0
+"Write a persuasive essay arguing in favor of stricter environmental regulations. The essay should be 750 words, include statistical data and expert opinions, and be written in a formal tone.",Writing,60,15,10,10,5,10,0,10
+"Design a C++ class template to represent a stack, with methods for push, pop, and top operations.",General,40,15,10,15,0,0,0,0
+Create a model to classify images of cars as sedan or SUV.,Machine Learning,27,12,5,10,0,0,0,0
+"Investigate the applications of computer vision in quality control for manufacturing processes, including defect detection and object recognition. Provide a 10-page report in IEEE format.",Research,49,12,10,12,0,10,0,5
+Create a model to predict the outcome of sports games using statistical analysis and machine learning. Provide a code repository hosted on GitHub and a detailed report in a Markdown document. ,Research,49,12,10,12,5,10,0,0
+Can you create a CI/CD pipeline?,DevOps,10,5,0,5,0,0,0,0
+Tell me about artificial intelligence.,Writing,15,5,5,5,0,0,0,0
+Build a Java program to simulate a vending machine with methods to dispense and restock items.,Programming,22,12,0,10,0,0,0,0
+"Design a Rust program to implement a basic web server using the actix-web crate, including request and response formatting, error handling, and logging.",Research,40,15,10,15,0,0,0,0
+"I'd like to create a RESTful API using Flask to handle user requests. The API should be able to handle GET, POST, PUT, and DELETE requests. Can you provide a basic example?",General,27,12,5,10,0,0,0,0
+Develop a chatbot that can answer frequently asked questions about a company's products and services. The chatbot should be able to understand user queries and respond accordingly. Use a combination of natural language processing and machine learning to achieve this. Implement the chatbot using Python and deploy it on a cloud platform like AWS or Google Cloud.,Machine Learning,44,12,10,12,5,0,0,5
+Design a neural network using TensorFlow to predict the likelihood of a customer buying a product based on their demographic information.,Research,54,12,10,12,5,10,5,0
+"Design a C++ class for a binary search tree with insert, delete, and search operations.",Programming,40,15,10,15,0,0,0,0
+"Build a chatbot that can simulate a conversation with a human, using NLP and machine learning, and ensure a 95% accuracy rate in understanding user input.",Research,32,12,5,10,0,0,0,5
+"Design a data warehouse to store and analyze IoT sensor data from industrial equipment, considering scalability, data quality, and security constraints. Provide a high-level architecture diagram.",Research,56,12,10,12,0,10,0,12
+Create a JavaScript function that validates a credit card number using the Luhn algorithm.,General,40,15,10,15,0,0,0,0
+Can you write a function that prints the numbers from 1 to 10?,General,30,10,0,10,0,10,0,0
+Research and suggest a text preprocessing technique for natural language processing tasks,Research,32,12,10,10,0,0,0,0
+What are some common techniques for feature engineering in machine learning? ,Research,25,15,0,10,0,0,0,0
+Build a program to calculate the area and perimeter of a circle given its radius.,Research,35,15,5,15,0,0,0,0
+Create a Rust program that implements a simple calculator. Allow users to input mathematical expressions and evaluate them.,Programming,32,12,5,10,0,5,0,0
+"Create a 1-page personal statement for a graduate school application, including a description of my research experience and goals.",Writing,49,12,10,12,5,10,0,0
+"Compare the security features of 3 different encryption algorithms (AES, RSA, Elliptic Curve Cryptography).",Research,34,12,10,12,0,0,0,0
+Just give me the answer,Machine Learning,0,0,0,0,0,0,0,0
+Use a PHP framework to create a simple web application.,Programming,17,12,0,5,0,0,0,0
+"Create a user manual for a new smart thermostat model. Include installation instructions, setup guide, and troubleshooting tips.",Writing,37,12,5,10,0,10,0,0
+Analyze the impact of climate change on polar bears.,Research,34,12,10,12,0,0,0,0
+Implement a recommendation system using collaborative filtering to suggest products to users based on their past purchases.,Machine Learning,27,12,5,10,0,0,0,0
+Analyze the impact of the number of hidden layers on the performance of a neural network model for a binary classification task. Compare the results with different activation functions and provide recommendations for optimal network architecture.,Research,35,12,10,13,0,0,0,0
+Analyze the impact of social media on body image.,Research,32,12,10,10,0,0,0,0
+Create a model to classify images into different animal species based on their characteristics. The model should be able to handle images of varying sizes and formats. Use a dataset from a reputable source and evaluate the model's performance using accuracy and precision metrics.,Machine Learning,54,12,10,12,5,10,0,5
+Develop a Java Spring Boot application that integrates with RabbitMQ for distributed task queueing. Implement dead-letter queue and error handling. quality: excellent,DevOps,39,12,10,12,5,0,0,0
+Create a model to predict the weather in a given location. The model should be able to handle historical data and make predictions for future time steps. Use a dataset from a reputable source and evaluate the model's performance using metrics such as mean absolute error and mean squared error.,Machine Learning,49,12,10,12,0,10,0,5
+Design a recommendation engine for products based on user behavior and contextual information.,Machine Learning,34,12,10,12,0,0,0,0
+"Write a JavaScript function that prints 'Hello, World!' to the console.",General,30,15,0,15,0,0,0,0
+"Develop a web scraper to extract company information from LinkedIn profiles, including name, title, and industry, and save the data in a CSV file.",Research,39,12,5,12,0,10,0,0
+"I need a script to generate a random quiz with 10 questions on history, with each question having 4 possible answers and the correct answer being a random choice between them.",General,27,12,5,10,0,0,0,0
+"Compare the performance of different machine learning algorithms (decision trees, random forests, support vector machines, and neural networks) on the Pima Indians Diabetes dataset. Use Python and the Scikit-learn library to implement and train the models, and evaluate their accuracy using metrics such as precision, recall, F1-score, and AUC-ROC. Present the results in a table and include a brief discussion of the findings.",Research,46,12,10,12,0,12,0,0
+I need a C++ program that calculates the greatest common divisor (GCD) of two numbers. The program should take two integers as input and return the GCD as an integer.,General,45,15,0,15,0,15,0,0
+Tell me about blockchain technology.,Research,20,10,5,5,0,0,0,0
+Build a Java class to represent a point in 2D space with properties for x and y coordinates. The class should include methods to get and set these properties.,Programming,22,12,0,10,0,0,0,0
+"Create a deployment script for a Node.js application using Docker and Kubernetes, considering the need for scaling and high availability, and output the YAML file in the format specified by the Kubernetes configuration file.",DevOps,51,12,12,12,0,10,0,5
+Create a PHP function to implement a basic web crawler using curl and DOMDocument.,Research,40,15,10,15,0,0,0,0
+I need a script to update all nodes in a Kubernetes cluster to the latest version of a specific image. The image is named 'my-image' and the cluster is deployed on a GKE cluster named 'my-cluster'. Please provide the script in YAML format.,DevOps,49,12,10,12,0,10,0,5
+Write a Ruby method to count the number of vowels in a given string.,Programming,30,15,0,15,0,0,0,0
+Write a 100-word product description for a new smartwatch. Include features and benefits.,Writing,35,10,5,10,0,10,0,0
+Write a short essay on the benefits and drawbacks of a universal basic income. Use real-world examples and data to support your arguments.,Writing,64,12,10,12,5,10,12,5
+Write a poem about friendship.,Writing,10,10,0,0,0,0,0,0
+Develop a JavaScript application that can handle user authentication using JWT.,Programming,27,12,5,10,0,0,0,0
+Develop a chatbot using Node.js and the Natural Language Processing library NLTK.,General,25,10,5,10,0,0,0,0
+I'd like to create an Android app that displays a list of items. The list should be sorted alphabetically and allow users to add new items. Can you provide a basic layout and code?,General,37,12,5,10,0,10,0,0
+"Design a database schema for a music streaming platform with tables for users, songs, playlists and ratings",Programming,45,15,15,15,0,0,0,0

@@ -1,0 +1,25 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+*.egg-info/
+.pytest_cache/
+
+# ML models
+backend/ml_models/classifier/
+backend/ml_models/scorer/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+"@ | Out-File .gitignore -Encoding UTF8
