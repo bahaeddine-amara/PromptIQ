@@ -52,8 +52,9 @@ export default function Dashboard() {
     try {
       const r = await promptAPI.optimize(prompt, mode)
       setOptResult(r.data)
-    } catch (err: any) {
-      if (err.response?.status === 401) setError('Login required to use optimization.')
+    } catch (err: unknown) {
+      const error = err as { response?: { status?: number } };
+      if (error.response?.status === 401) setError('Login required to use optimization.')  
       else setError('Optimization failed — check your GROQ_API_KEY in .env')
     } finally { setOptMode(null) }
   }

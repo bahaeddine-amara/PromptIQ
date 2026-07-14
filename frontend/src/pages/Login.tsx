@@ -18,8 +18,9 @@ export default function Login({ setIsAuthenticated }: Props) {
       localStorage.setItem('token', r.data.access_token)
       setIsAuthenticated(true)
       navigate('/analyze')
-    } catch (err: any) {
-      setError(err.response?.data?.detail || 'Login failed. Check your credentials.')
+    } catch (err: unknown) {
+    const error = err as { response?: { data?: { detail?: string } } };
+    setError(error.response?.data?.detail || 'Login failed. Check your credentials.')
     } finally { setLoading(false) }
   }
 

@@ -22,3 +22,23 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+*.egg-info/
+.pytest_cache/
+
+# ML models (too large for GitHub — keep local only)
+backend/ml_models/classifier/
+backend/ml_models/scorer/
+
+# Node
+node_modules/
+dist/
+
+# VS Code
+.vscode/

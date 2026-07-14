@@ -11,6 +11,8 @@ venv/
 # ML models
 backend/ml_models/classifier/
 backend/ml_models/scorer/
+node_modules/
+npm-debug.log
 
 # Node
 node_modules/
