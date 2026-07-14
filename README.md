@@ -153,4 +153,4 @@ pytest tests/ -v
 
 ## License
 
-Academic project — ESPRIT, Data Science & AI Engineering, 2024/2025.
+Academic project — ESPRIT, Data Science & AI Engineering, 2026.
